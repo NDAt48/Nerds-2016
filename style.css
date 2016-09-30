@@ -740,16 +740,16 @@ body {
 }
 
 .slider-slides-first {
-	background: url("img/slider-1.png") no-repeat 100% 50%;
+	background: url("img/Slider-1.png") no-repeat 100% 50%;
 }
 
 
 .slider-slides-second{
-	background: url("img/slider-2.png") no-repeat 100% 50%;
+	background: url("img/Slider-2.png") no-repeat 100% 50%;
 }
 
 .slider-slides-third {
-	background: url("img/slider-3.png") no-repeat 100% 100%;
+	background: url("img/Slider-3.png") no-repeat 100% 100%;
 }
 .slider-slides-text {
 	width: 480px;
