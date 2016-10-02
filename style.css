@@ -611,7 +611,7 @@ body {
 	margin-bottom: 20px;
 }
 .content-user-data input[type="text"],
-.content-user-data input[type="e-mail"] {
+.content-user-data input[type="email"] {
 	width: 188px;
 	margin: 0;
 	margin-top: 12px;
